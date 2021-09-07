@@ -13,7 +13,6 @@ factors. The machine learning models that we will applicate in this report try t
 
 ## Dataset 
 The present report covers the Breast Cancer Wisconsin Dataset (https://www.kaggle.com/roustekbio/breast-cancercsv) created by Dr. William H. Wolberg, physician at the University of Wisconsin Hospital at Madison, Wisconsin, USA. The features are as follows:
-
 - Sample code number id number
 - Clump Thickness 1 - 10
 - Uniformity of Cell Size 1 - 10
@@ -25,6 +24,19 @@ The present report covers the Breast Cancer Wisconsin Dataset (https://www.kaggl
 - Normal Nucleoli 1 – 10
 - Mitoses 1-10 
 
+## Exploratory Data Analysis
+- Data Cleaning
+- Correlation Analysis
+- Outlier Treatment
+
+## Model Building
+- Naïve Bayes Model
+- K-Nearest Neighbors Model
+- Logistic Regression Model
+- Support Vector Machines Model 
+- Decision Tree Model
+- Random Forests Model
+- Artificial Neural Networks Model
 
 
 
