@@ -40,7 +40,7 @@ The present report covers the Breast Cancer Wisconsin Dataset (https://www.kaggl
 
 ## Results
 <p align="center">
-  <img src="Images/result_breast-cancer.PNG" width="600"/>
+  <img src="https://github.com/Vaibhav-Sachdeva/Vaibhav-Sachdeva/blob/main/Images/result_breast-cancer.PNG" width="600"/>
 </p>
 
 Both SVM and MLP gave the same accuracy, sensitivity and specificity of 97.1%, 98.9% and 94.3% respectively. On the other hand, Random Forest Classifier gave no false negative results and hence a sensitivity of 100% but a specificity of 92.7% which was a little lower than that of MLP and SVM.
