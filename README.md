@@ -38,5 +38,10 @@ The present report covers the Breast Cancer Wisconsin Dataset (https://www.kaggl
 - Random Forests Model
 - Artificial Neural Networks Model
 
+## Results
+<p align="center">
+  <img src="Images/result_breast-cancer.PNG" width="600"/>
+</p>
 
-
+Both SVM and MLP gave the same accuracy, sensitivity and specificity of 97.1%, 98.9% and 94.3% respectively. On the other hand, Random Forest Classifier gave no false negative results and hence a sensitivity of 100% but a specificity of 92.7% which was a little lower than that of MLP and SVM.
+Considering the average of sensitivity and specificity, MLP and SVM gave better results by achieving an average of 96.60% than Random Forest Classifier which gave an average of 96.35%. Hence, it can be concluded that both SVM and MLP gave the optimal (best) results when both sensitivity and specificity are taken into account. But it cannot be ignored that Random Forests gave a sensitivity of 100% which is remarkable and also an average of 96.35% which was a bit lower than that of MLP and SVM. 
