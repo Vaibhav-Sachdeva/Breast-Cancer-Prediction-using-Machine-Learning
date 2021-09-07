@@ -11,5 +11,20 @@ methods have been used to predict and to make decisions.
 The objective of this report is to train machine learning models to predict whether a breast cancer cell is Benign or Malignant. Data will be transformed to reveal patterns in the dataset and create a more robust analysis.The optimal model will be selected following the resulting accuracy, sensitivity, specificity, amongst other
 factors. The machine learning models that we will applicate in this report try to create a classifier that provides a high accuracy level combined with a low rate of false-negatives (high sensitivity) and false positives (high specificity).
 
+## Dataset 
+The present report covers the Breast Cancer Wisconsin Dataset (https://www.kaggle.com/roustekbio/breast-cancercsv) created by Dr. William H. Wolberg, physician at the University of Wisconsin Hospital at Madison, Wisconsin, USA. The features are as follows:
+
+- Sample code number id number
+- Clump Thickness 1 - 10
+- Uniformity of Cell Size 1 - 10
+- Uniformity of Cell Shape 1 - 10
+- Marginal Adhesion 1 - 10
+- Single Epithelial Cell Size 1 - 10
+- Bare Nuclei 1 - 10
+- Bland Chromatin 1 - 10
+- Normal Nucleoli 1 – 10
+- Mitoses 1-10 
+
+
 
 
